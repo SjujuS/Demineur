@@ -7,7 +7,7 @@ import java.io.*;
  * Elle permet de sauvegarder la partie en cours et de la reprendre ultérieurement.
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class Sauvegarde {
 

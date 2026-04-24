@@ -8,7 +8,7 @@ import javax.swing.*;
  * ou quitter l'application.
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class Accueil {
     

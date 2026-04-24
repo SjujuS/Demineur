@@ -7,7 +7,7 @@ import java.awt.*;
  * Affiche une case avec différents états : révélée, cachée, marquée avec un drapeau ou un doute.
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class Carre extends JComponent {
 

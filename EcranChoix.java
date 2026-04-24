@@ -9,7 +9,7 @@ import javax.swing.*;
  * avant de lancer une nouvelle partie.
  *
  * @version 1.0
- * @author Lisa Zouba
+ * @author SjujuS
  */
 public class EcranChoix implements ActionListener {
 

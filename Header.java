@@ -7,7 +7,7 @@ import javax.swing.*;
  * Affiche un titre avec une mise en forme spécifique (police, couleur, dimensions).
  *
  * @version 1.0
- * @author Lisa Zouba
+ * @author SjujuS
  */
 public class Header extends JPanel {
 

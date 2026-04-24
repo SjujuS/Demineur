@@ -9,7 +9,7 @@ import javax.swing.*;
  * (clics gauche et droit), et met à jour la grille en fonction du moteur de jeu.
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class EcranJeu {
 

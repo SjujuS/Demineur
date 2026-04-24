@@ -8,7 +8,7 @@ import java.util.Random;
  * et l'état des cases (révélées, marquées, en doute).
  *
  * @version 1.0
- * @author Lisa Zouba
+ * @author SjujuS
  */
 public class Mines implements Serializable {
 

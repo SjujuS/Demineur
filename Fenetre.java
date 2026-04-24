@@ -7,7 +7,7 @@ import javax.swing.*;
  * Configure les propriétés de base de la fenêtre (taille, position, couleur de fond).
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class Fenetre extends JFrame{
     

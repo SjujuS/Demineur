@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
  * Implémente les actions pour démarrer une nouvelle partie, reprendre une sauvegarde ou quitter l'application.
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class ActionAccueil implements ActionListener {
 

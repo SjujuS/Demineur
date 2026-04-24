@@ -8,7 +8,7 @@ import java.awt.*;
  * Le bouton offre un effet de survol et s'affiche avec des angles arrondis.
  *
  * @version 1.0
- * @author Julie Picart
+ * @author SjujuS
  */
 public class CreateButton extends JButton {
 

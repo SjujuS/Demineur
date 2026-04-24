@@ -7,7 +7,7 @@ import javax.swing.UIManager;
  * Elle initialise les paramètres graphiques de l'application et lance l'écran d'accueil.
  *
  * @version 1.0
- * @author Lisa Zouba
+ * @author SjujuS
  */
 public class Main {
     
